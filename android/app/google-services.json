@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "57735444539",
-    "project_id": "pustack-1af40",
-    "storage_bucket": "pustack-1af40.appspot.com"
+    "project_number": "996094668213",
+    "project_id": "voice-calling-app-4a8aa",
+    "storage_bucket": "voice-calling-app-4a8aa.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:57735444539:android:b0ea154700c1fea9e4041e",
+        "mobilesdk_app_id": "1:996094668213:android:cf82452ee4d7e60335fdfc",
         "android_client_info": {
           "package_name": "com.example.voice_calling"
         }
       },
       "oauth_client": [
         {
-          "client_id": "57735444539-l6l6dv8d7demvjncp7jra2q910ecqme0.apps.googleusercontent.com",
+          "client_id": "996094668213-5i105ruc9mnl5grhpe769t2jedldhabs.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBsC8WPK0Vhmw1ABeJqnb7Dd0bcbtqE3L4"
+          "current_key": "AIzaSyBoP5GUVnWKTlYcpJqIvaXGnOTK9QdV6ao"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "57735444539-l6l6dv8d7demvjncp7jra2q910ecqme0.apps.googleusercontent.com",
+              "client_id": "996094668213-5i105ruc9mnl5grhpe769t2jedldhabs.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
